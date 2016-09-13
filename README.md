@@ -53,7 +53,7 @@ git commit -m "init versioning"
 
 > **forget** to repeat the same commands everytime your new Fortran project born: do it one-time and make **git** do it for you the next times :smile:
 
-> forget is a remote-hosted (on GitHub) git-repository template/skeleton that provides a bunch of (ready to use) files for handling modern Fortran projects exploiting the best helpers available on web. In particular the template offers:
+> forget is a remote-hosted (on GitHub) git-repository template/skeleton that provides a bunch of (ready to use) files for handling modern Fortran projects exploiting the best helpers available on web.
 
 ### How to use
 
@@ -66,7 +66,7 @@ Go to [Top](#top)
 
 ## Main features
 
-> forget is just template providing
+> forget is just a template providing
 
 + [ ] semi-sane project template:
   + [ ] CLI bash script for configuring the template;
