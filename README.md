@@ -71,18 +71,18 @@ Go to [Top](#top)
 + [ ] semi-sane project template:
   + [ ] CLI bash script for configuring the template;
   + [x] semi-sane, almost-cluttered, but aesthetically nice, project README.md;
-  + [ ] Travis CI configuration file exploiting [Travis CI](https://travis-ci.org) for:
-    + [ ] building and testing your Fortran project;
-    + [ ] making coverage analysis;
-    + [ ] making API documentation (by means of the great [FORD](https://github.com/cmacmackin/ford)) and deploying it on GitHub pages;
-  + [ ] Codecov configuration file exploiting [Codecov](https://codecov.io) analyzer;
-  + [ ] fully-inclusive, semi-crazy set of FOSS licenses covering almost all scenario definable as *do wathever you want with this project*;
-  + [ ] opinionated CONTRIBUTING.md guidelines;
+  + [x] Travis CI configuration file exploiting [Travis CI](https://travis-ci.org) for:
+    + [x] building and testing your Fortran project;
+    + [x] making coverage analysis;
+    + [x] making API documentation (by means of the great [FORD](https://github.com/cmacmackin/ford)) and deploying it on GitHub pages;
+  + [x] Codecov configuration file exploiting [Codecov](https://codecov.io) analyzer;
+  + [x] fully-inclusive, semi-crazy set of FOSS licenses covering almost all scenario definable as *do wathever you want with this project*;
+  + [x] opinionated CONTRIBUTING.md guidelines;
   + [ ] ready to use FORD configuration file;
-  + [ ] semi-sane, ready to use .gitingore;
-  + [ ] semi-sane tree-sources structure;
-  + [ ] agnostic `fobos` file to auto-magically build your Fortran project with the coolest Fortran building tool... [FoBiS.py](https://github.com/szaghi/FoBiS)
-  + [ ] agnostic bash script to automatically run all your tests;
+  + [x] semi-sane, ready to use .gitingore;
+  + [x] semi-sane tree-sources structure;
+  + [x] agnostic `fobos` file to auto-magically build your Fortran project with the coolest Fortran building tool... [FoBiS.py](https://github.com/szaghi/FoBiS)
+  + [x] agnostic bash script to automatically run all your tests;
 * [x] Test Driven Developed (TDD);
 * [x] collaborative developed;
 * [x] well documented;
